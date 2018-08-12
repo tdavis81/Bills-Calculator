@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bills Calculator</string>
+
+    <string-array name="BillingQuestions">
+        <item>Bill One</item>
+    </string-array>
+
+</resources>
